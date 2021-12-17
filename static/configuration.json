@@ -7,7 +7,7 @@
     "useBackgroundImage": false,
     "backgroundColorLeft": "#2690F9",
     "backgroundColorRight": "#FC2D2D",
-    "audioUrl": "https://music.163.com/#/song?id=28219141",
+    "audioUrl": "https://dhms-1252799863.cos.ap-guangzhou.myqcloud.com/voice/kefu/soft_girl/service_ask_thing_2.wav",
     "mini": false,
     "webSites":[
         {"name":"segmentfault" , "url":"https://segmentfault.com/"}
